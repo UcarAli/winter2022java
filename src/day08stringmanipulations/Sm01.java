@@ -1,4 +1,4 @@
-package day08stringmanipulationsforloop;
+package day08stringmanipulations;
 
 public class Sm01 {
 
