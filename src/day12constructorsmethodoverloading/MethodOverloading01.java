@@ -1,4 +1,4 @@
-package day12constructorsmethodoverloadingvariabletypes;
+package day12constructorsmethodoverloading;
 
 public class MethodOverloading01 {
 
